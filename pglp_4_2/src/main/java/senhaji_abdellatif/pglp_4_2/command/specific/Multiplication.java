@@ -1,4 +1,4 @@
-package msenhaji_abdellatif.pglp_4_2.command.specific;
+package senhaji_abdellatif.pglp_4_2.command.specific;
 
 
 public class Multiplication implements SpecificCommand {
