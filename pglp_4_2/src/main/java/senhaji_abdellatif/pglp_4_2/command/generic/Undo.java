@@ -33,4 +33,10 @@ public class Undo implements GenericCommand {
 		undo.pop();
 		copyLastStack();
 	}
+
+	@Override
+	public void opp() {
+		// TODO Auto-generated method stub
+		
+	}
 }

@@ -30,7 +30,7 @@ public class UndoTest {
 	public void testUndoEchec() {
 		Stack<Double> p = new Stack<Double>();
 		Undo u = new Undo(p);
-		u.oppf();
+		u.opp();
 		assertTrue(p.isEmpty());
 	}
 }
